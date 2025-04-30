@@ -16,6 +16,16 @@ info: |
 layout: cover
 ---
 
+<style>
+.slidev-page {
+  padding: 0;
+  background: url("/images/slide_background_all_pages.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+
 # mTLS con Quarkus
 
 ## Controllo degli accessi con Security Identity Augmentor
@@ -47,8 +57,7 @@ Essenzialmente, mTLS è un modo per garantire che entrambe le parti in una comun
 # Il Progetto Quarkus mTLS – La Base Sicura di partenza
 
 - **Progetto GitHub:** [amusarra/quarkus-mtls-auth](https://github.com/amusarra/quarkus-mtls-auth)
-- **Quarkus TLS Registry
-  ** [https://quarkus.io/guides/tls-registry-reference](https://quarkus.io/guides/tls-registry-reference)
+- **Quarkus TLS Registry** [https://quarkus.io/guides/tls-registry-reference](https://quarkus.io/guides/tls-registry-reference)
 - **Implementazione di TLS Mutual Authentication (mTLS) con Quarkus:** [https://bit.ly/3MQPA3v](https://bit.ly/3MQPA3v)
 - **Attivazione lato server:**
     - In `application.properties`: `quarkus.http.ssl.client-auth=required`
