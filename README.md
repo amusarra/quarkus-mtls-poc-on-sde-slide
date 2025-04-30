@@ -2,6 +2,8 @@
 
 Questa presentazione illustra come l'autenticazione mTLS (Mutual TLS), implementata con Quarkus, contribuisca in modo significativo alla prevenzione della Sensitive Data Exposure (SDE). Attraverso una Proof of Concept, viene dimostrato come il `SecurityIdentityAugmentor` possa arricchire l'identità del client con informazioni aggiuntive estratte dai certificati, permettendo un controllo degli accessi più granulare.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64bbcd2a-6976-4f11-b7e1-08e6371b1b09/deploy-status)](https://quarkus-mtls-poc-on-sde-slide.dontesta.it)
+
 ## Argomenti trattati
 
 - Introduzione a mTLS e suo funzionamento
