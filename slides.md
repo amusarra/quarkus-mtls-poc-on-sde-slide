@@ -240,16 +240,12 @@ In questo modo, si può prevenire la Sensitive Data Exposure (SDE) e garantire c
 
 Ecco alcune risorse utili per approfondire gli argomenti trattati:
 
-- **Quarkus Security Documentation:
-  ** [https://quarkus.io/guides/security-overview](https://quarkus.io/guides/security-overview)
-- **Quarkus mTLS Guide:
-  ** [https://quarkus.io/guides/security-authentication-mechanisms#mutual-tls-mtls-authentication](https://quarkus.io/guides/security-authentication-mechanisms#mutual-tls-mtls-authentication)
-- **Quarkus TLS Registry Reference:
-  ** [https://quarkus.io/guides/tls-registry-reference](https://quarkus.io/guides/tls-registry-reference)
+- **Quarkus Security Documentation:** [https://quarkus.io/guides/security-overview](https://quarkus.io/guides/security-overview)
+- **Quarkus mTLS Guide:** [https://quarkus.io/guides/security-authentication-mechanisms#mutual-tls-mtls-authentication](https://quarkus.io/guides/security-authentication-mechanisms#mutual-tls-mtls-authentication)
+- **Quarkus TLS Registry Reference:** [https://quarkus.io/guides/tls-registry-reference](https://quarkus.io/guides/tls-registry-reference)
 - **Articolo Blog sull'implementazione mTLS con Quarkus:** [https://bit.ly/3MQPA3v](https://bit.ly/3MQPA3v) (dal
   progetto `amusarra/quarkus-mtls-auth`)
-- **OWASP Sensitive Data Exposure (A02:2021):
-  ** [https://owasp.org/Top10/A02_2021-Cryptographic_Failures/](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/) (
+- **OWASP Sensitive Data Exposure (A02:2021):** [https://owasp.org/Top10/A02_2021-Cryptographic_Failures/](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/) (
   Nota: SDE era A3:2017, ora parte di A02:2021)
 
 ---
