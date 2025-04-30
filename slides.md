@@ -79,6 +79,8 @@ Per questa PoC userò il progetto Quarkus-mTLS-auth che ho sviluppato qualche te
 In questo progetto, ho implementato l'autenticazione mTLS in Quarkus, utilizzando il TLS Registry di Quarkus per gestire i certificati e le chiavi. Ho anche incluso uno script per generare i certificati necessari per testare l'autenticazione mTLS.
 
 Per attivare l'autenticazione mTLS lato server, è sufficiente impostare la proprietà `quarkus.http.ssl.client-auth=required` nel file `application.properties` e specificare i percorsi dei certificati. Inoltre, ho incluso uno script in `src/main/shell/certs-manager/` per generare i certificati necessari a scopo di test.
+
+La Trusted Service List (TSL) è un registro ufficiale che contiene l’elenco dei prestatori di servizi fiduciari qualificati (QTSP - Qualified Trust Service Providers) riconosciuti da uno Stato membro dell’Unione Europea (o da un paese aderente al quadro eIDAS).
 -->
 ---
 
