@@ -264,12 +264,12 @@ Ecco alcune risorse utili per approfondire gli argomenti trattati:
 # About Me
 
 - **Nome:** [Antonio Musarra]
-- **Professione:** [Software Engineer@SOGEI, Tech Blogger]
+- **Professione:** [Software Engineer, Tech Blogger]
 - **Località:** [Roma]
 
 ## Contatti
 
-- **Email:** [amusarra@sogei.it]
+- **Email:** [antonio.musarra@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/amusarra/]
 - **My GitHub Repositories**: [https://github.com/amusarra]
 - **Business Site**: [https://www.sogei.it]
